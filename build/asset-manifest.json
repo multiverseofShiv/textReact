@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/multiverseofShiv/textReact/static/css/main.e6c13ad2.css",
+    "main.js": "/multiverseofShiv/textReact/static/js/main.e7d7417c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/multiverseofShiv/textReact/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/multiverseofShiv/textReact/index.html",
+    "main.e6c13ad2.css.map": "/multiverseofShiv/textReact/static/css/main.e6c13ad2.css.map",
+    "main.e7d7417c.js.map": "/multiverseofShiv/textReact/static/js/main.e7d7417c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/multiverseofShiv/textReact/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e7d7417c.js"
+  ]
+}
